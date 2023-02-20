@@ -1,0 +1,9 @@
+@media (max-width: 576px) {
+  .heading {
+    color: blue;
+    text-align: center;
+  }
+  .picture {
+    display: none;
+  }
+}
